@@ -5,7 +5,6 @@ import Nav from './components/Nav/Nav'
 import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
-import Resume from './pages/Resume'
 import Footer from './components/Footer/Footer'
 
 function App() {
@@ -18,8 +17,6 @@ function App() {
       <Route exact path="/projects" component={Projects}></Route>
 
       <Route exact path="/contact" component={Contact}></Route>
-
-      <Route exact path="/resume" component={Resume}></Route>
 
       <Footer />
     </Router>

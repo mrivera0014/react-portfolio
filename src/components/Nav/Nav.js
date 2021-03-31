@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import * as FaIcons from 'react-icons/fa'
 import './Nav.css'
 
 
@@ -15,9 +16,10 @@ function Nav() {
             <Link to="/contact" replace>
                 Contact
                         </Link>
-            <Link to="/resume" replace>
-                Resume
-                        </Link>
+
+            <a href="https://github.com/mrivera0014"> <FaIcons.FaGithub /> </a>
+            <a href="https://www.linkedin.com/in/marblerivera/"> <FaIcons.FaLinkedinIn /> </a>
+
         </nav>
     )
 }

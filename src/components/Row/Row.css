@@ -3,8 +3,35 @@
        height: 100vh;
 }
 
-p {
+.aboutMe {
     color: #ffdb58;
     overflow: hidden;
     padding: 50px;
+}
+
+.icon{
+    font-size: 60px;
+    padding: 50px;
+    float: left;
+    margin-left: 187px;
+}
+
+.reactIc {
+color:#61DBFB;
+}
+
+.nodeIc {
+    color: #68A063;
+}
+
+.jsIc {
+    color: #f0db4f;
+}
+
+.htmlIc {
+    color: #f06529;
+}
+
+.cssIc {
+    color: #2965f1;
 }
