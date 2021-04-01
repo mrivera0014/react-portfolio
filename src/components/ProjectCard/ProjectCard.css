@@ -1,20 +1,24 @@
 .project-card {
-    display: inline-table;
+    display: flex;
     flex: 1 1 auto;
    margin: 5%;
    background: lightgrey;
 }
 
 .projectImg {
-    width: 300px;
-    height: 202px;
+    width: 360px;
+    height: 280px;
     float: left;
 }
 
 .card-title {
     float: left;
+    margin: 5px;
 }
 
-.cardDes {
+.projectCardDes {
     color: black;
+    float: right;
+    margin-right: 190px;
+    margin-top: 50px;
 }

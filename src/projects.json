@@ -11,9 +11,9 @@
         "id": 2,
         "title": "Workout Tracker",
         "image": "/assets/fitness_tracker.png",
-        "description": "n this project I created a fitness tracker to help others like myself keep better track of our workouts in order to meet our fitness goals. ",
-        "deployed": "https://quiet-badlands-37239.herokuapp.com/login",
-        "github": "https://github.com/mrivera0014/vaxSeen"
+        "description": "In this project I created a fitness tracker to help others like myself keep better track of our workouts in order to meet our fitness goals. ",
+        "deployed": "https://secure-escarpment-87628.herokuapp.com/?id=605174072370ab0015b2b4db",
+        "github": "https://github.com/mrivera0014/workout-tracker"
     },
     {
         "id": 3,

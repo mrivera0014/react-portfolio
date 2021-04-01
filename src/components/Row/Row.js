@@ -8,7 +8,7 @@ function Rows(props) {
     return (
         <Row>
             {props.children}
-            <section className="aboutMe">
+            <section className="aboutMe meSection">
                 <p >Hello, my name is Maribel Rivera although I do prefer to go by Marble! I'm from Denver, CO. and worked
                 at Starbucks for about five years. I also have experience with Microsoft Word, Excel, and AutoCAD. I
                 first became interested about coding about two years ago when a friend talked to me about going to
@@ -25,7 +25,7 @@ function Rows(props) {
                 </p>
             </section>
 
-            <section>
+            <section className="meSection">
                 <p className="reactIc icon"> <FaIcons.FaReact /></p>
                 <p className="nodeIc icon"> <FaIcons.FaNodeJs /></p>
                 <p className="jsIc icon"> <DiIcons.DiJavascript1 /></p>

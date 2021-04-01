@@ -2,6 +2,7 @@ form {
     display: block;
     padding: 90px;
     background: #333;
+    height: 100vh;
 }
 
 .form-text {

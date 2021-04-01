@@ -17,8 +17,8 @@ function Nav() {
                 Contact
                         </Link>
 
-            <a href="https://github.com/mrivera0014"> <FaIcons.FaGithub /> </a>
-            <a href="https://www.linkedin.com/in/marblerivera/"> <FaIcons.FaLinkedinIn /> </a>
+            <a rel="noreferrer" target="_blank" href="https://github.com/mrivera0014"> <FaIcons.FaGithub /> </a>
+            <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/marblerivera/"> <FaIcons.FaLinkedinIn /> </a>
 
         </nav>
     )

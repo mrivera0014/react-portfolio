@@ -9,11 +9,17 @@
     padding: 50px;
 }
 
+.meSection {
+    background-color: #333;
+}
+
 .icon{
     font-size: 60px;
     padding: 50px;
     float: left;
-    margin-left: 187px;
+    margin-left: 147px;
+/* margin-left: 187 for larger screens */
+width: 195px;
 }
 
 .reactIc {
