@@ -9,7 +9,7 @@ If you have any questions contact me at mrivera0014@gmail.com.
 Find more of my work at (https://github.com/mrivera0014/)
 
 ## Screenshots
-![HW-screenshot](public/assets/portfolio-sh.PNG)
+![HW-screenshot](assets/portfolio-sh.PNG)
 
 ## Links
 
